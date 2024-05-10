@@ -27,8 +27,8 @@ Data cleaning was performed using power query. Columns with missing values were 
 I created a measures table using the Enter data from the home tab. There I housed all my measures for more efficiency and easy access to my measures. Functions used includes, COUNT, SUM AND CALCULATE.
 
 # Data Modelling
-![](crm _tables.png)
-----
+![](crm_tables.png)
+---
 
 # Data Visualization
 The visualization is a three page report. comprises of an executive dashboard with a hidden filter pane, produt dashbaord and a map for navigation. You can interact with the visualization (https://app.powerbi.com/view?r=eyJrIjoiYjVmYWRmMDAtODAxNy00M2ZmLTkxMTctYmRhNzc2MTU1MTFkIiwidCI6ImUyODE5OGNhLTExOWQtNDhmOC1iYzBlLTczMzIxYTM4YzJlMyJ9)
